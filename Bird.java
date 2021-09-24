@@ -1,4 +1,4 @@
-public abstract class Bird {
+ abstract class Bird {
   
     // attributes  
     private String name;  
